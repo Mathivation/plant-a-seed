@@ -1,0 +1,15 @@
+//
+// plant-a-seed
+// cpp
+//  Created by Gustaf Zachrisson on 2018-10-18.
+//
+
+# include <iostream>
+using namespace std;
+
+int main() 
+  {
+
+  return 0;
+  }
+
